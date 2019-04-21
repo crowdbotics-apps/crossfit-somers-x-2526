@@ -1,0 +1,3 @@
+rootProject.name = 'crossfit_somers_x_2526'
+
+include ':app'
